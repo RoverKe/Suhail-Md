@@ -29,8 +29,8 @@ jobs:
     - name: Start Suhail-Md
     
       env:
-          OWNER_NAME: 
-          OWNER_NUMBER:
+          OWNER_NAME: Chrispine
+          OWNER_NUMBER: 254706380563
           SESSION_ID:
 
       run: npm start
